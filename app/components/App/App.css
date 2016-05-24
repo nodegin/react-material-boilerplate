@@ -1,0 +1,14 @@
+@import 'http://cdn.materialdesignicons.com/1.6.50/css/materialdesignicons.min.css';
+@import 'normalize.css';
+
+[class^="mdi"] {
+  font-family: 'Material Design Icons';
+}
+
+h1{
+  color: #00f;
+}
+
+.test {
+  color: #0f0;
+}
